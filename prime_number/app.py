@@ -53,4 +53,4 @@ for factor in factorList:
     except:
         pass
 
-print('Result: ' , resultList);
+# print('Result: ' , resultList);
